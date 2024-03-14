@@ -1,4 +1,5 @@
 # Modules:
+
 ### Student Management Module
 ### Faculty Management Module
 ### Finance Management Module
@@ -8,13 +9,16 @@
 ### Infrastructure Management Module
 
 # Models:
+
 ### Exam Schedules:
 ### Course Details:
 ### Student Records:
 
 # Design
 
+
 ## Student ID:
+
 ### Name 
 ### DOB 
 ### Address 
@@ -22,11 +26,12 @@
 ### Grade
 
 ## Course Details:
--Course ID 
--Course Name
--Description 
--Credits
--Department
+
+### Course ID 
+### Course Name
+### Description 
+### Credits
+### Department
 
 ## Exam Schedules:
 ### Exam ID 
