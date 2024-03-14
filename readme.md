@@ -1,4 +1,4 @@
-## Modules
+## Modules:
 -Student Management Module
 -Faculty Management Module
 -Finance Management Module
@@ -7,33 +7,33 @@
 -Communication Module
 -Infrastructure Management Module
 
-## Models
-Exam Schedules:
-Course Details:
-Student Records:
+## Models:
+-Exam Schedules:
+-Course Details:
+-Student Records:
 
 ## Design
 
-## Student ID 
-Name 
-DOB 
-Address 
-Phone 
-Grade
+### Student ID:
+-Name 
+-DOB 
+-Address 
+-Phone 
+-Grade
 
-### Course Details
-Course ID 
-Course Name
-Description 
-Credits
-Department
+### Course Details:
+-Course ID 
+-Course Name
+-Description 
+-Credits
+-Department
 
-## Exam Schedules
-Exam ID 
-Course ID 
-Date 
-Time 
-Location 
+## Exam Schedules:
+-Exam ID 
+-Course ID 
+-Date 
+-Time 
+-Location 
 
 
 # Detailed system design document of School/College ERP System Design 
