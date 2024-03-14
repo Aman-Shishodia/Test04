@@ -1,4 +1,4 @@
-## Modules:
+### Modules:
 -Student Management Module
 -Faculty Management Module
 -Finance Management Module
@@ -7,12 +7,12 @@
 -Communication Module
 -Infrastructure Management Module
 
-## Models:
+### Models:
 -Exam Schedules:
 -Course Details:
 -Student Records:
 
-## Design
+### Design
 
 ### Student ID:
 -Name 
