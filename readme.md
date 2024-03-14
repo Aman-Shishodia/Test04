@@ -1,11 +1,11 @@
 ## Modules
-Student Management Module
-Faculty Management Module
-Finance Management Module
-Academic Management Module
-Library Management Module
-Communication Module
-Infrastructure Management Module
+-Student Management Module
+-Faculty Management Module
+-Finance Management Module
+-Academic Management Module
+-Library Management Module
+-Communication Module
+-Infrastructure Management Module
 
 ## Models
 Exam Schedules:
